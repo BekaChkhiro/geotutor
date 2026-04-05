@@ -1,0 +1,16 @@
+{
+  "id": "bekachkhirodze/geotutor-georgian-pdf-offline-ai-tutor",
+  "title": "GeoTutor: Georgian PDF \u2192 Offline AI Tutor",
+  "code_file": "geotutor.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "model_sources": [
+    "google/gemma-4/transformers/gemma-4-e4b-it/1"
+  ]
+}
